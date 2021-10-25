@@ -1,0 +1,28 @@
+.footer1{
+    display: flex   ;
+}
+.link1{
+    margin: 40px;
+    background-color: whitesmoke;
+    border: black; border-style: groove;
+    color: black;
+    font-weight: bold;
+    
+}
+.link2{
+    margin: 40px;
+    background-color: whitesmoke;
+    border: black; border-style: groove;
+    color: black;
+    font-weight: bold;
+}
+.link3{
+    margin:40px;
+    background-color: whitesmoke;
+    border: black; border-style: groove;
+    color: black;
+    font-weight: bold;
+    
+   
+    
+}
